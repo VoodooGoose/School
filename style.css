@@ -1,0 +1,29 @@
+h1{
+
+    color: aquamarine;
+    background-color: black;
+    font-size: 70px;
+    font-weight: bold ;
+    border:rgb(1, 1, 17) 25px
+}
+
+h2{
+    color:white ;
+    background-color: purple;
+    text-align: center;
+    font-style: italic ;
+    font-size: 42px;
+    margin-block-end: auto;
+    padding-top: 0%;
+
+}
+h3{
+    color:purple ;
+    background-color: lightblue;
+    text-align: right;
+    text-decoration: underline;
+}
+
+    span {
+    color: white;
+}
